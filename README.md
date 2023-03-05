@@ -22,7 +22,4 @@ By donating, you will help the development of this project, and *you will be fea
 Remember that this template should be reviewed and modified to fit your requirements.
 
 > There will be  *manual revision* ⚠️
-
-_Made with a lot of ❤️❤️ by *
-
-(https://github.com/Josee9988)**_
+Made with Love ❤❤
